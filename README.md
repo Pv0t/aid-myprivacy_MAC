@@ -17,6 +17,8 @@ The script installs the LuLu application and applies preconfigured settings to b
 ## Installation
 You have two options for installation. The first option is to install the .sh file along with the LuLu configuration folder. The second option is to download the tar.xz file, extract its contents, and run the script. The second method is more convenient than the first.
 
+You can download the tar.gz file from this [page](https://github.com/Pv0t/aid-myprivacy_MAC/releases).
+
 ```bash
 mylaptop@MyLaptops-MacBook-Air$ tar -xvzf aid_myprivacy.tar.gz
 mylaptop@MyLaptops-MacBook-Air$ chmod +x aid_myprivacy.sh
