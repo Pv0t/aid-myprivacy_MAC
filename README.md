@@ -2,7 +2,7 @@
 > This repository is no longer maintained and will not receive further updates after 01/11/2025. The reason for this is that closed-source operating systems can still collect your data without your knowledge, and tools like LuLu can be easily bypassed. If you’re seeking a truly privacy-respecting operating system, I highly suggest to start using Linux for better control over your data and your operating system. However, this repository may still be helpful if your goal is just to reduce the amount of data Apple collects.
 
 # 1.0 Aid My Privacy on MAC
-This repository is designed to significantly reduce the data that our Mac devices transmit to Apple servers, empowering us to protect our privacy more effectively. This guide suppose you don't use any of that Apple service provide.
+This repository is designed to significantly reduce the data that our Mac devices transmit to Apple servers, empowering us to protect our privacy more effectively. This guide assumes you don't use any of the services provided by Apple.
 
 >[!WARNING] 
 > This script is crafted to disable specific features on macOS, including Spotlight, and employs the LuLu application to block all services and applications provided by Apple, with the exception of software updates so you can still update your MAC.
