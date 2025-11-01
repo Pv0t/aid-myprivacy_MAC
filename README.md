@@ -7,7 +7,7 @@ This repository is designed to significantly reduce the data that our Mac device
 >[!WARNING] 
 > This script is crafted to disable specific features on macOS, including Spotlight, and employs the LuLu application to block all services and applications provided by Apple, with the exception of software updates so you can still update your MAC.
 
-## 1.1 Features
+## 1.1 Feature Overview
 - **Disabling Spotlight**:  
 By disabling Spotlight, you stop macOS from indexing your files, search history, and other personal data. This reduces the risk of that data being exposed, either locally or in case of a security breach.
 - **Installing Homebrew**:  
